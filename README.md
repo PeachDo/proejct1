@@ -7,8 +7,8 @@
    
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white)
-![npm](https://img.shields.io/badge/npm-v6.14.0-blue?logo=npm)
+[Swagger]
+[npm]
 
 🎯 진행상황
    
